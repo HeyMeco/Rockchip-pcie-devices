@@ -4,7 +4,7 @@ title: "Nvidia GeForce RTX 3090"
 functionality: "Currently Testing"
 kernel: "6.1.62"
 driver_required: "Yes"
-github_issue: "ToDo"
+github_issue: "[Issue #1](https://github.com/HeyMeco/NanoPi-R5S-pcie-devices/issues/1)"
 buy_link: "ToDo"
 ---
 The RTX 3090 is supported by both Nvidia's proprietary driver and the open source Nouveau driver in the Linux Kernel.

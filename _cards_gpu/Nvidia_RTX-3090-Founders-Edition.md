@@ -2,6 +2,7 @@
 layout: card
 title: "Nvidia GeForce RTX 3090"
 functionality: "Currently Testing"
+kernel: "6.1.62"
 driver_required: "Yes"
 github_issue: "ToDo"
 buy_link: "ToDo"

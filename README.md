@@ -1,4 +1,7 @@
-# NanoPi-R5S-pcie-devices
-Inspired by @geerlingguy/raspberry-pi-pcie-devices for the NanoPi R5S.
+# Rockchip-pcie-devices
+Inspired by @geerlingguy/raspberry-pi-pcie-devices for Rockchip SoC's.
 
-A Single Board Computer (SBC) based on the RK3568
+## This is a public effort to document PCI-E Device support for Rockchip based (Single Board) Computers
+**Contributions are Welcome!**
+
+I only have the NanoPi R5S currently so I can only contribute for RK3568.

@@ -1,7 +1,7 @@
 ---
 layout: card
 title: "Nvidia GeForce RTX 3090"
-functionality: "Currently Testing"
+functionality: "Detected | HW Limit see Issue"
 kernel: "6.1.62"
 driver_required: "Yes"
 github_issue: "[Issue #1](https://github.com/HeyMeco/NanoPi-R5S-pcie-devices/issues/1)"

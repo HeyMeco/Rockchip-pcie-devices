@@ -8,7 +8,7 @@ github_issue: "Not needed"
 
 ---
 > [!NOTE]  
-> The vendor devicetree sets the m.2 port to Gen 2 speeds (5GB/s) in mainline its correct value is applied and works with Gen 3 (8GB/s).
+> The vendor devicetree sets the m.2 port to Gen 2 speeds (500mb/s) in mainline its correct value is applied and works with Gen 3 (1GB/s).
 
 The card shows up as `SATA controller: JMicron Technology Corp. JMB58x AHCI SATA controller (prog-if 01 [AHCI 1.0])` using `lspci`, and I successfully tested two drives connected to it (I didn't have any more to test, otherwise I would've plugged in more!).
 

@@ -7,5 +7,14 @@ Inspired by @geerlingguy/raspberry-pi-pcie-devices for Rockchip SoC's.
 My tests are done on:
 | SoC  |  Board |
 |---|---|
+| RK3588  | Radxa Rock 5B / 5B+ / 5T |
 | RK3568  | FriendlyElec NanoPi R5S |
-| RK3588  | Radxa Rock 5B |
+
+But also open to contributions for:
+
+| SoC  |  Board |
+|---|---|
+| RK3582  | any |
+| RK3576  | any |
+| RK3566  | any |
+| RK3528  | any |
